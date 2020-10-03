@@ -20,8 +20,8 @@
   <body>
       <div id="header">
         <nav>
-          <li class="fork"><a href="/">Home</a></li>  
-          <li class="fork"><a href="/scanly">Talk to Scanly</a></li>
+          <li class="fork"><a {% if page.url == "/" %} class="active" {% endif %} href="/">Home</a></li>  
+          <li class="fork"><a {% if page.url == "/scanly/" %} class="active" {% endif %} href="/scanly/">Talk to Scanly</a></li>
           <li class="downloads"><a href="https://github.com/DuckDuckGroup/Scanly/tree/main" target="_blank">View On GitHub</a></li>
           {% if site.show_downloads %}
             <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
