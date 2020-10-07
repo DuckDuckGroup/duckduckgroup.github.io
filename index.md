@@ -9,8 +9,9 @@ Hello & welcome to Scanly, a university project for module 206CDE. The project i
 We only started the project W/c Monday 2nd October 2020 - so our in the 'live' development phase, and we hope to share more details with you in the near future, so watch this space!
 
 
-##Legal Policy
-By using this software, you agree that you have permission from the network owners to run such assessment tools. 
+## Legal Policy & Terms of Use
+By using this software, you agree that you have permission from the network owners, or an appropriate authority, to run such assessment tools. 
 Unauthorised use may not be compliant with local laws.
 Scanly by DuckDuckGroup is open-source and as such we are not responsible for any possible issues.
 We accept NO responsibility for any legal consequences you may face.
+We forbid any use of this software for malicious purposes.
