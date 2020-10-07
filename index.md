@@ -15,3 +15,6 @@ Unauthorised use may not be compliant with local laws.
 Scanly by DuckDuckGroup is open-source and as such we are not responsible for any possible issues.
 We accept NO responsibility for any legal consequences you may face.
 We forbid any use of this software for malicious purposes.
+
+## Found a Bug?
+If you have found a bug please either send us an email using our [contact form](/contact/) or [create an issue on Github](https://github.com/DuckDuckGroup/Scanly/issues). All bug finders will be acknowledged on our acknowledgement page!
