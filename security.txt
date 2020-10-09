@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+# If you have any queries, please address them to the team leader, Jack Orcherton. His PGP key can be found below & submit your query on the contact form or reach out to him using the details provided [here](https://jackorcherton.github.io/).
+Contact: https://duckduckgroup.github.io/contact
+Encryption: https://duckduckgroup.github.io/.well-known/pgpKey.txt
+Acknowledgments: https://duckduckgroup.github.io/security/
+Preferred-Languages: en, de
+Canonical: https://duckduckgroup.github.io/.well-known/security.txt
+Policy: https://duckduckgroup.github.io/security/
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEAg+17ziu03JLJmtw7kDkUa7UEBcFAl+AeoUACgkQ7kDkUa7U
+EBfewRAAt2p70UiAnY5AB9fXbpXsbkhzhnyVUDYluQ8F548mwqbuUGoc8zsssRtk
+I8z3AFYPgnybLcRnJOLCvSGPtsFmcsamgnJkSSsn733TzNJ+tEnK3ZL9ZxkiwWRM
+k83+jkalcbzM4VWTtzt1b0SeqOl7YQb/xnF2alSnClmLg72gAQa7ZiabaJ+D8PKF
+uUNHuTvhDOj8ie6Cc2OhvOtIzSPYhUCRzx3UKgla3wT6mwuP/LnGOBFOjzHydN+s
+3b9nKHrDS6Pi82CzgtUX2VkAQWwd5v4TsjtyNTFSlTYVoQ4ipChLqppaPoxb8OeX
+24ekj8NWf2+/4NhhaHq5YLh+W5AjMISE1hjwd1lfHAtfPcXpbK4eNQHc7QAxUN8s
+l1XpeNaEQxV4zZR13xBIUse0XB8003wH255OwMPWRZbUUxO1Gq36wrnHRzMIMclk
+2jzCgjEgAX+X/DapSaaVCjXAQ4Ph7DlUs3q+WPZ2jkRdDT6KtP0lSddBl+GlFjPn
+w3qK+eHVM337OF2saJB/73wALMOlcSOVCS0vSnd8lmnbtF4pUDhZwllJdpiwCwQc
++r8/0PTo9TwwC5QuxwX4qsUsUrRqPZXjlUtgJhS6ACiWDidthW6PvbKp+4xigjAB
+MmYvsUk6KesGsHyGSLliBom+oP3zQrGEQ109cs8BYddxVvlpMZ4=
+=9/mS
+-----END PGP SIGNATURE-----
