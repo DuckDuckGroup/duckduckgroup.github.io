@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-# If you have any queries, please address them to the team leader, Jack Orcherton. His PGP key can be found below & submit your query on the contact form or reach out to him anyway on his personal website https://jackorcherton.github.io/.
+# If you have any queries, please address them to the team leader, Jack Orcherton. His PGP key can be found below & submit your query on the contact form or reach out to him using the details provided [here](https://jackorcherton.github.io/).
 Contact: https://duckduckgroup.github.io/contact
 Encryption: https://duckduckgroup.github.io/.well-known/pgpKey.txt
 Acknowledgments: https://duckduckgroup.github.io/security/
