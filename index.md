@@ -21,3 +21,5 @@ As Scanly is an open-source project, you are more than welcome to inspect the co
 If you do find an issue, please contact us using the following [contact form](/contact/), and we will try to answer you as soon as possible. If you wish to **encrypt your message**, which would be greatly appreciated, please view our [PGP key](/.well-known/pgpKey.txt){:target="_blank"}.
 
 In acknowledgement of any security issues found, we will list your name in the credit section of our site!
+
+![Business Duck](assets/duck-business.png)
