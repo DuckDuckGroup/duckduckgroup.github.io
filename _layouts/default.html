@@ -27,13 +27,10 @@
       <div id="header">
         <nav>
           <li class="fork"><a {% if page.url == "/" %} class="active" {% endif %} href="/">Home</a></li>  
-          <li class="fork"><a {% if page.url == "/scanly/" %} class="active" {% endif %} href="/scanly/">Talk to Scanly</a></li>
-          <li class="downloads"><a href="https://github.com/DuckDuckGroup/Scanly/tree/main" target="_blank">View On GitHub</a></li>
-          {% if site.show_downloads %}
-            <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
-            <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
-            <li class="title">DOWNLOADS</li>
-          {% endif %}
+          <li class="fork"><a {% if page.url == "/scanly/" %} class="active" {% endif %} href="/scanly/">Demo</a></li>
+          
+          <li class="downloads"><a href="https://github.com/DuckDuckGroup/Scanly/tree/main" target="_blank">GitHub</a></li>
+          <li class="downloads"><a href="/contact/">Contact</a></li>
         </nav>
       </div><!-- end header -->
 
