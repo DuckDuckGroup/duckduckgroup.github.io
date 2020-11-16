@@ -3,6 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content = "Security focused chatbot, by DuckDuckGroup, capable of carrying out Network Enumeration, Network Vulnerability Scaning & Account Breach Detection">
+    <meta name="keywords" content="Chatbot, Botkit, Botkit AI, Scanly, DuckDuckGroup">
+    <meta name="author" content="DuckDuckGroup">
 
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -18,19 +21,16 @@
     {% if page.url == "/contact/" %}
     <link rel="stylesheet" href="/assets/css/contact.css">
     {% endif %}
-
+    <link rel="shortcut icon" type="image/png" href="/favicon.png">
   </head>
   <body>
       <div id="header">
         <nav>
           <li class="fork"><a {% if page.url == "/" %} class="active" {% endif %} href="/">Home</a></li>  
-          <li class="fork"><a {% if page.url == "/scanly/" %} class="active" {% endif %} href="/scanly/">Talk to Scanly</a></li>
-          <li class="downloads"><a href="https://github.com/DuckDuckGroup/Scanly/tree/main" target="_blank">View On GitHub</a></li>
-          {% if site.show_downloads %}
-            <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
-            <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
-            <li class="title">DOWNLOADS</li>
-          {% endif %}
+          <li class="fork"><a {% if page.url == "/scanly/" %} class="active" {% endif %} href="/scanly/">Demo</a></li>
+          
+          <li class="downloads"><a href="https://github.com/DuckDuckGroup/Scanly/tree/main" target="_blank">GitHub</a></li>
+          <li class="downloads"><a {% if page.url == "/contact/" %} class="active" {% endif %} href="/contact/">Contact</a></li>
         </nav>
       </div><!-- end header -->
 
