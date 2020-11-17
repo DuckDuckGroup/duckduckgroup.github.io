@@ -1,5 +1,5 @@
 ---
-permalink: /legal
+permalink: /legal/
 layout: default
 ---
 # Legal Policy & Terms of Use
