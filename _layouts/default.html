@@ -26,9 +26,11 @@
       <div id="header">
         <nav>
           <li class="fork"><a {% if page.url == "/" %} class="active" {% endif %} href="/">Home</a></li>  
+          <!-- Removed page until demo is live
           <li class="fork"><a {% if page.url == "/scanly/" %} class="active" {% endif %} href="/scanly/">Demo</a></li>   
+          -->
           <li class="downloads"><a href="https://github.com/DuckDuckGroup/Scanly/tree/main" target="_blank">GitHub</a></li>
-          <li class="downloads"><a {% if page.url == "/contact/" %} class="active" {% endif %} href="/contact/">Contact</a></li>
+          <li class="fork"><a {% if page.url == "/contact/" %} class="active" {% endif %} href="/contact/">Contact</a></li>
         </nav>
     </div>
     <div class="wrapper">
