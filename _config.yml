@@ -50,3 +50,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 include: [".well-known"]
+exclude: ["scanly.html"]
